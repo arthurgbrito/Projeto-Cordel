@@ -1,2 +1,2 @@
 # Desafio-12
- Contém o exercício 12 do curso de HTML e CSS do CursoemVideo que consiste em um cordel moderno
+Aqui contém um dos exercícios/desafios do curso de HTML/CSS do CursoemVideo feito por mim. Consiste em um Cordel Moderno e foi feito com o intuito de aperfeiçoar as habilidades com o background do site e suas variações.
